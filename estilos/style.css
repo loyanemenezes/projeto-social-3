@@ -46,8 +46,8 @@ iframe#tela {
 
 #redes-sociais img {
     margin: 10px;
-    margin-right: 20px;
-    width: 45px;
+    margin-right: 20px; /*tire se não resolveu*/
+    width: 45px; /*era 50px*/
     border-radius: 50%;
     box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.452);
     box-sizing: border-box;
